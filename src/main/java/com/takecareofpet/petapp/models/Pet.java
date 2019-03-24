@@ -3,6 +3,7 @@ package com.takecareofpet.petapp.models;
 import com.fasterxml.jackson.annotation.JsonIdentityInfo;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.ObjectIdGenerators;
+import com.takecareofpet.petapp.common.enums.PetType;
 import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
